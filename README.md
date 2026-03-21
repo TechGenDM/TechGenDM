@@ -1,9 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Hello%20%F0%9F%91%8B%20I%20am%20Devasish!&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=AI%20%26%20Tech%20Enthusiast%20%7C%20Full-Stack%20Developer%20%7C%20Innovator&amp;descAlignY=55&amp;descSize=18" width="100%" />
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hello%20%F0%9F%91%8B%20I%20am%20Devasish!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Tech%20Enthusiast%20%7C%20Full-Stack%20Developer%20%7C%20Innovator&descAlignY=55&descSize=18)
+
 </div>
 
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=TechGenDM&amp;color=blueviolet&amp;style=for-the-badge&amp;label=Profile+Views" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=TechGenDM&color=blueviolet&style=for-the-badge&label=Profile+Views)
+
 </div>
 
 ---
@@ -64,14 +68,11 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=TechGenDM&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TechGenDM&amp;theme=tokyonight&amp;hide_border=true" height="165"/>
+![TechGenDM's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TechGenDM&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TechGenDM&theme=tokyonight&hide_border=true)
 
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechGenDM&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;layout=compact" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TechGenDM&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
@@ -81,7 +82,7 @@
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=TechGenDM&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=TechGenDM&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
 </div>
 
@@ -91,7 +92,7 @@
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
@@ -101,14 +102,12 @@
 
 <div align="center">
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TechGenDM/TechGenDM/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TechGenDM/TechGenDM/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/TechGenDM/TechGenDM/output/github-snake.svg" />
-  </picture>
+![Snake animation](https://raw.githubusercontent.com/TechGenDM/TechGenDM/output/github-snake-dark.svg)
 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=100&amp;section=footer" width="100%" />
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+
 </div>
