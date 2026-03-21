@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello👋%20I%20am%20Devasish!&section=header&animation=twinkling&fontAlign=50&fontAlignY=30&fontSize=60&desc=AI/ML%20Enthusiast%20%7C%20Full-Stack%20Developer%20%7C%20TechGen_DM&descAlignY=56&descSize=27"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello👋%20I%20am%20Devasish!&section=header&animation=twinkling&fontAlign=50&fontAlignY=30&fontSize=60&desc=AI/ML%20Enthusiast%20%7C%20Data%20Science%20Learner%20%7C%20Tea%20Lover&descAlignY=56&descSize=27"/>
 </p>
 
 <p align="right">
@@ -94,17 +94,13 @@
 
 ---
 
-## 🐍 Contribution Graph:
+## 📈 Activity Graph:
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TechGenDM/TechGenDM/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TechGenDM/TechGenDM/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TechGenDM/TechGenDM/output/github-contribution-grid-snake.svg">
-</picture>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TechGenDM&theme=tokyonight&hide_border=true&area=true" alt="TechGenDM's Activity Graph">
 </div>
+
+<br/>
 
 <div align="center">
 
