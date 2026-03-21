@@ -2,24 +2,42 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello👋%20I%20am%20Devasish!&section=header&animation=twinkling&fontAlign=50&fontAlignY=30&fontSize=60&desc=AI/ML%20Enthusiast%20%7C%20Data%20Science%20Learner%20%7C%20Tea%20Lover&descAlignY=56&descSize=27"/>
 </p>
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=TechGenDM&label=Profile%20views&color=0e75b6&style=flat" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TechGenDM&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=AI+%26+Machine+Learning+Enthusiast;Full-Stack+Web+Developer;Data+Science+Learner;Always+Building+Things+🚀" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me:
-
-- 🙋 I'm **Devasish Mishra**
-- 🤝 I'm looking to collaborate on **Every Project Related to AI & Tech**
-- 💡 I'm looking for help with **AI-powered projects**
-- 🌱 I'm currently learning **AI, Machine Learning & Full-Stack Dev**
-- 💬 Ask me about anything related to **AI and the World...**
-- ⚡ Fun fact: **I Love Coding and Building Things 🚀**
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="60%">
+        <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> About Me:</h2>
+        <ul style="list-style-type: none;">
+          <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Raising%20Hand.png" width="20"/> I'm <b>Devasish Mishra</b></li>
+          <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="20"/> Looking to collaborate on <b>AI & Tech Projects</b></li>
+          <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="20"/> Looking for help with <b>AI-powered projects</b></li>
+          <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals%20and%20Nature/Seedling.png" width="20"/> Currently learning <b>AI, Machine Learning & Full-Stack</b></li>
+          <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Speech%20Balloon.png" width="20"/> Ask me about <b>AI and the World...</b></li>
+          <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="20"/> Fun fact: <b>I Love Coding and Building Things</b></li>
+        </ul>
+      </td>
+      <td align="center" width="40%">
+        <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" width="220" alt="3D Coding GIF" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## 🌐 Socials:
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" width="30"/> Socials:</h2>
 
 <div align="center">
 
@@ -32,7 +50,7 @@
 
 ---
 
-## 💻 Tech Stack:
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30"/> Tech Stack:</h2>
 
 <div align="center">
 
@@ -60,7 +78,7 @@
 
 ---
 
-## 📊 GitHub Stats:
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30"/> GitHub Stats & Activity:</h2>
 
 <div align="center">
 
@@ -70,34 +88,20 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TechGenDM&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-</div>
+<br/>
 
----
-
-## 🏆 GitHub Trophies:
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=TechGenDM&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TechGenDM&theme=tokyonight&hide_border=true&area=true" alt="TechGenDM's Activity Graph">
 
 </div>
 
 ---
 
-## 💡 Random Dev Quote:
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Direct%20Hit.png" width="30"/> Random Dev Quote:</h2>
 
 <div align="center">
 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-</div>
-
----
-
-## 📈 Activity Graph:
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TechGenDM&theme=tokyonight&hide_border=true&area=true" alt="TechGenDM's Activity Graph">
 </div>
 
 <br/>
