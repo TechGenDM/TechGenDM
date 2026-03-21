@@ -1,14 +1,10 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello👋%20I%20am%20Devasish!&section=header&animation=twinkling&fontAlign=50&fontAlignY=30&fontSize=60&desc=AI/ML%20Enthusiast%20%7C%20Data%20Science%20Learner%20%7C%20Tea%20Lover&descAlignY=56&descSize=27"/>
+</p>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hello%20%F0%9F%91%8B%20I%20am%20Devasish!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Tech%20Enthusiast%20%7C%20Full-Stack%20Developer%20%7C%20Innovator&descAlignY=55&descSize=18)
-
-</div>
-
-<div align="right">
-
-![Profile Views](https://komarev.com/ghpvc/?username=TechGenDM&color=blueviolet&style=for-the-badge&label=Profile+Views)
-
-</div>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=TechGen_DM&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
