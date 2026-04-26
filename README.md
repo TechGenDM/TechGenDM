@@ -1,103 +1,12 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello👋%20I%20am%20Devasish!&section=header&animation=twinkling&fontAlign=50&fontAlignY=30&fontSize=60&desc=AI/ML%20Enthusiast%20%7C%20Full-Stack%20Developer%207C%20Docs%20Reader&descAlignY=56&descSize=27"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TechGenDM&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Tech+Gen+_+DM;AI+and+Machine+Learning+Enthusiast;Full-Stack+Web+Developer;Data+Science+Learner;Always+Building+Things!" alt="Typing SVG" />
-  </a>
-</p>
-
----
-
-<div align="center">
-  <table>
-    <tr>
-      <td valign="center" width="60%">
-        <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" align="center" /> About Me:</h2>
-        <ul style="list-style-type: none;">
-          <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Raising%20Hand.png" width="20"/> I'm <b>Devasish Mishra</b></li>
-          <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="20"/> Looking to collaborate on <b>AI & Tech Projects</b></li>
-          <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="20"/> Looking for help with <b>AI-powered projects</b></li>
-          <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals%20and%20Nature/Seedling.png" width="20"/> Currently learning <b>AI, Machine Learning & Full-Stack</b></li>
-          <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Speech%20Balloon.png" width="20"/> Ask me about <b>AI and the World...</b></li>
-          <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="20"/> Fun fact: <b>I Love Coding and Building Things</b></li>
-        </ul>
-      </td>
-      <td align="center" width="40%">
-        <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" width="220" alt="3D Coding GIF" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" width="30" align="center"/> Socials:
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devasish-mishra-62546a34a)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/devasishmishra.74)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/TechGen_DM)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100025805343384)
+<img src="https://capsule-render.vercel.app/api?type=slice&height=340&color=0:ff6b6b,30:ffa726,60:a29bfe,100:fd79a8&text=Devasish%20Mishra&fontColor=ffffff&fontSize=58&fontAlign=70&fontAlignY=40&rotate=-3&desc=%40TechGen_DM%20%E2%80%A2%20Creative%20Dev%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Full-Stack%20Engineer&descFontColor=ffffffcc&descSize=18&descAlignY=63&descAlign=70&animation=blinking&stroke=ffffff&strokeWidth=2"/>
 
 </div>
 
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30" align="center"/> Tech Stack:
-
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" align="center"/> GitHub Stats & Activity:
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TechGenDM&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechGenDM&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TechGenDM&theme=tokyo-night&hide_border=true&area=true" width="98%" alt="TechGenDM's Activity Graph">
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Direct%20Hit.png" width="30" align="center"/> Random Dev Quote:
-
-<div align="center">
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=800&size=22&duration=2500&pause=1000&color=FF6B6B&center=true&vCenter=true&width=750&lines=%F0%9F%94%A5+Building+AI+that+actually+works;%F0%9F%8E%A8+Full-Stack+Dev+with+a+creative+edge;%F0%9F%A7%A0+LLMs+%7C+RAG+%7C+Deep+Learning+%7C+Data+Science;%F0%9F%9A%80+Ship+fast.+Learn+faster.+Repeat.)](https://git.io/typing-svg)
 
 </div>
 
@@ -105,6 +14,161 @@
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff6b6b?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devasish-mishra-62546a34a)
+[![Twitter/X](https://img.shields.io/badge/@TechGen__DM-ffa726?style=for-the-badge&logo=x&logoColor=white)](https://x.com/TechGen_DM)
+[![Instagram](https://img.shields.io/badge/Instagram-a29bfe?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devasishmishra.74)
+[![Facebook](https://img.shields.io/badge/Facebook-fd79a8?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100025805343384)
+[![Profile Views](https://komarev.com/ghpvc/?username=TechGenDM&style=for-the-badge&color=ff6b6b&label=VISITORS)](https://github.com/TechGenDM)
+
+</div>
+
+---
+
+<img align="right" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" width="200px"/>
+
+### 🧑‍💻 &nbsp; Hey, I'm Devasish — aka `TechGen_DM`
+
+- 🤖 &nbsp; Deep into **LLMs, RAG, Deep Learning & Data Science**
+- 🌐 &nbsp; Building full-stack apps with **React, Next.js & Node.js**
+- 🔬 &nbsp; Currently shipping **AI-powered products** that actually work
+- 🛠️ &nbsp; Made things like **DeepSeek LLM Clone**, **Code-Sync**, **VidSnap AI**, **Getman**
+- 🤝 &nbsp; Open to collabs — hit me up **@TechGen_DM** anywhere
+- ⚡ &nbsp; Fun fact: I love breaking things just to rebuild them better
+
+<br clear="right"/>
+
+---
+
+## 🎨 &nbsp; Tech Stack
+
+> Every tool I've actually used, properly earned.
+
+---
+
+### 🌐 &nbsp; Languages
+
+<p>
+<img src="https://img.shields.io/badge/JavaScript-FF6B6B?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-FF8C42?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-FFA726?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-FFD93D?style=for-the-badge&logo=openjdk&logoColor=333"/>
+<img src="https://img.shields.io/badge/HTML5-C8F7A6?style=for-the-badge&logo=html5&logoColor=333"/>
+<img src="https://img.shields.io/badge/CSS3-A8EDEA?style=for-the-badge&logo=css3&logoColor=333"/>
+</p>
+
+---
+
+### ⚛️ &nbsp; Frontend
+
+<p>
+<img src="https://img.shields.io/badge/React.js-FF6B6B?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/React%20Native-FF8C42?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/React%20Hooks-FFA726?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-FFD93D?style=for-the-badge&logo=nextdotjs&logoColor=333"/>
+<img src="https://img.shields.io/badge/Tailwind%20CSS-C8F7A6?style=for-the-badge&logo=tailwindcss&logoColor=333"/>
+<img src="https://img.shields.io/badge/Bootstrap-A8EDEA?style=for-the-badge&logo=bootstrap&logoColor=333"/>
+<img src="https://img.shields.io/badge/Vercel%20V0-A29BFE?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Monaco%20Editor-FD79A8?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
+
+---
+
+### 🛠️ &nbsp; Backend & Databases
+
+<p>
+<img src="https://img.shields.io/badge/Node.js-FF6B6B?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-FF8C42?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-FFA726?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Socket.io-FFD93D?style=for-the-badge&logo=socketdotio&logoColor=333"/>
+<img src="https://img.shields.io/badge/Electron.js-C8F7A6?style=for-the-badge&logo=electron&logoColor=333"/>
+<img src="https://img.shields.io/badge/Zod-A8EDEA?style=for-the-badge&logo=zod&logoColor=333"/>
+<img src="https://img.shields.io/badge/MongoDB-A29BFE?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-FD79A8?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+---
+
+### 🤖 &nbsp; AI / ML & LLMs
+
+<p>
+<img src="https://img.shields.io/badge/Large%20Language%20Models-FF6B6B?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-FF8C42?style=for-the-badge&logo=semanticscholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/DeepSeek-FFA726?style=for-the-badge&logo=deepseek&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-FFD93D?style=for-the-badge&logo=pytorch&logoColor=333"/>
+<img src="https://img.shields.io/badge/Neural%20Networks-C8F7A6?style=for-the-badge&logo=tensorflow&logoColor=333"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-A8EDEA?style=for-the-badge&logo=scikitlearn&logoColor=333"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-A29BFE?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vertex%20AI-FD79A8?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Cloud%20Run-FF6B6B?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+</p>
+
+---
+
+### 📊 &nbsp; Data Science
+
+<p>
+<img src="https://img.shields.io/badge/Data%20Science-FF8C42?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Analysis-FFA726?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-FFD93D?style=for-the-badge&logo=pandas&logoColor=333"/>
+<img src="https://img.shields.io/badge/NumPy-C8F7A6?style=for-the-badge&logo=numpy&logoColor=333"/>
+<img src="https://img.shields.io/badge/Matplotlib-A8EDEA?style=for-the-badge&logo=plotly&logoColor=333"/>
+<img src="https://img.shields.io/badge/Seaborn-A29BFE?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-FD79A8?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p>
+
+---
+
+### 🔧 &nbsp; Tools & DevOps
+
+<p>
+<img src="https://img.shields.io/badge/Git-FF6B6B?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-FF8C42?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-FFA726?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/WordPress-FFD93D?style=for-the-badge&logo=wordpress&logoColor=333"/>
+<img src="https://img.shields.io/badge/VS%20Code-A29BFE?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Desktop%20App%20Dev-FD79A8?style=for-the-badge&logo=electron&logoColor=white"/>
+</p>
+
+---
+
+## 📊 &nbsp; GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=TechGenDM&theme=radical&hide_border=true&include_all_commits=true&count_private=true&border_radius=16" height="175"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechGenDM&theme=radical&hide_border=true&layout=compact&border_radius=16" height="175"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TechGenDM&theme=radical&hide_border=true&border_radius=16" width="96%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TechGenDM&theme=redical&hide_border=true&area=true&border_radius=16" width="96%"/>
+
+</div>
+
+---
+
+## 💬 &nbsp; Dev Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+<div align="center">
+
+**Find me everywhere as** `@TechGen_DM`
+
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:ff6b6b,30:ffa726,60:a29bfe,100:fd79a8&height=80&section=footer"/>
 
 </div>
