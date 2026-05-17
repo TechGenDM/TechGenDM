@@ -54,6 +54,7 @@
 <img src="https://img.shields.io/badge/Java-FFD93D?style=for-the-badge&logo=openjdk&logoColor=333"/>
 <img src="https://img.shields.io/badge/HTML5-C8F7A6?style=for-the-badge&logo=html5&logoColor=333"/>
 <img src="https://img.shields.io/badge/CSS3-A8EDEA?style=for-the-badge&logo=css3&logoColor=333"/>
+<img src="https://img.shields.io/badge/Rust-FF6B6B?style=for-the-badge&logo=rust&logoColor=white"/>
 </p>
 
 ---
@@ -69,6 +70,8 @@
 <img src="https://img.shields.io/badge/Bootstrap-A8EDEA?style=for-the-badge&logo=bootstrap&logoColor=333"/>
 <img src="https://img.shields.io/badge/Vercel%20V0-A29BFE?style=for-the-badge&logo=vercel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Monaco%20Editor-FD79A8?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebAssembly-FF6B6B?style=for-the-badge&logo=webassembly&logoColor=white"/>
+<img src="https://img.shields.io/badge/IndexedDB-FF8C42?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </p>
 
 ---
@@ -84,6 +87,7 @@
 <img src="https://img.shields.io/badge/Zod-A8EDEA?style=for-the-badge&logo=zod&logoColor=333"/>
 <img src="https://img.shields.io/badge/MongoDB-A29BFE?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-FD79A8?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-FF6B6B?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
 ---
@@ -127,6 +131,29 @@
 <img src="https://img.shields.io/badge/WordPress-FFD93D?style=for-the-badge&logo=wordpress&logoColor=333"/>
 <img src="https://img.shields.io/badge/VS%20Code-A29BFE?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Desktop%20App%20Dev-FD79A8?style=for-the-badge&logo=electron&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-FF6B6B?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nix-FF8C42?style=for-the-badge&logo=nixos&logoColor=white"/>
+</p>
+
+---
+
+### 🔗 &nbsp; Distributed Systems & Systems Engineering
+
+<p>
+<img src="https://img.shields.io/badge/CRDTs-FF6B6B?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/Local--First%20Architecture-FF8C42?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Peer--to--Peer%20Sync-FFA726?style=for-the-badge&logo=torproject&logoColor=white"/>
+<img src="https://img.shields.io/badge/Offline--First%20Systems-FFD93D?style=for-the-badge&logo=pwa&logoColor=333"/>
+<img src="https://img.shields.io/badge/Eventual%20Consistency-C8F7A6?style=for-the-badge&logo=apachecassandra&logoColor=333"/>
+<img src="https://img.shields.io/badge/Conflict%20Resolution-A8EDEA?style=for-the-badge&logo=git&logoColor=333"/>
+<img src="https://img.shields.io/badge/Storage%20Engine%20Design-A29BFE?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Distributed%20Systems-FD79A8?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/Replication%20Protocols-FF6B6B?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vector%20Clocks-FF8C42?style=for-the-badge&logo=clockify&logoColor=white"/>
+<img src="https://img.shields.io/badge/Database%20Internals-FFA726?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Property--Based%20Testing-FFD93D?style=for-the-badge&logo=pytest&logoColor=333"/>
+<img src="https://img.shields.io/badge/Systems%20Programming%20(Rust)-C8F7A6?style=for-the-badge&logo=rust&logoColor=333"/>
+<img src="https://img.shields.io/badge/OLTP%20Engine%20Design-A8EDEA?style=for-the-badge&logo=amazonrds&logoColor=333"/>
 </p>
 
 ---
