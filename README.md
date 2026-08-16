@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&height=340&color=0:ff6b6b,30:ffa726,60:a29bfe,100:fd79a8&text=Devasish%20Mishra&fontColor=ffffff&fontSize=58&fontAlign=70&fontAlignY=40&rotate=-3&desc=%40TechGen_DM%20%E2%80%A2%20Creative%20Dev%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Full-Stack%20Engineer&descFontColor=ffffffcc&descSize=18&descAlignY=63&descAlign=70&animation=blinking&stroke=ffffff&strokeWidth=2"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&height=340&color=0:ff6b6b,30:ffa726,60:a29bfe,100:fd79a8&text=Devasish%20Mishra&fontColor=ffffff&fontSize=58&fontAlign=50&fontAlignY=40&rotate=-3&desc=%40TechGen_DM%20%E2%80%A2%20Creative%20Dev%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Full-Stack%20Engineer&descFontColor=ffffffcc&descSize=18&descAlignY=63&descAlign=50&animation=blinking&stroke=ffffff&strokeWidth=2"/>
 
 </div>
 
@@ -19,6 +19,12 @@
 [![Instagram](https://img.shields.io/badge/Instagram-a29bfe?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devasishmishra.74)
 [![Facebook](https://img.shields.io/badge/Facebook-fd79a8?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100025805343384)
 [![Profile Views](https://komarev.com/ghpvc/?username=TechGenDM&style=for-the-badge&color=ff6b6b&label=VISITORS)](https://github.com/TechGenDM)
+
+</div>
+
+<div align="center">
+
+**Jump to:** [Tech Stack](#-tech-stack) • [GitHub Stats](#-github-stats) • [Trophies](#-trophies) • [Connect](#-lets-build-something)
 
 </div>
 
@@ -182,6 +188,16 @@
 
 ---
 
+## 🏆 &nbsp; Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=TechGenDM&theme=radical&no-frame=true&row=1&column=7&margin-w=8" width="96%"/>
+
+</div>
+
+---
+
 ## 💬 &nbsp; Dev Quote
 
 <div align="center">
@@ -192,9 +208,14 @@
 
 ---
 
+## 🤝 &nbsp; Let's Build Something
+
 <div align="center">
 
 **Find me everywhere as** `@TechGen_DM`
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-ff6b6b?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devasish-mishra-62546a34a)
+[![X](https://img.shields.io/badge/Follow%20on%20X-a29bfe?style=for-the-badge&logo=x&logoColor=white)](https://x.com/TechGen_DM)
 
 <img src="https://capsule-render.vercel.app/api?type=shark&color=0:ff6b6b,30:ffa726,60:a29bfe,100:fd79a8&height=80&section=footer"/>
 
