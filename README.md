@@ -16,7 +16,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ff6b6b?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devasish-mishra-62546a34a)
 [![Twitter/X](https://img.shields.io/badge/@TechGen__DM-ffa726?style=for-the-badge&logo=x&logoColor=white)](https://x.com/TechGen_DM)
-[![Instagram](https://img.shields.io/badge/Instagram-a29bfe?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devasishmishra.74)
+[![Instagram](https://img.shields.io/badge/Instagram-a29bfe?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/techgen_dm)
 [![Facebook](https://img.shields.io/badge/Facebook-fd79a8?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100025805343384)
 [![Profile Views](https://komarev.com/ghpvc/?username=TechGenDM&style=for-the-badge&color=ff6b6b&label=VISITORS)](https://github.com/TechGenDM)
 
