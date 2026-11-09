@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="1200" height="120" role="img" aria-label="Five diyas — Lokah Samastah Sukhino Bhavantu">
+<style>.f { transform-origin: 0 -6px; animation: flick 1.8s ease-in-out infinite alternate; }
+@keyframes flick { 0% { transform: scale(1,1) rotate(-3deg); } 100% { transform: scale(.9,1.12) rotate(3deg); } }</style>
+<g transform="translate(300 78)">
+  <path d="M-30 0 Q0 30 30 0 Z" fill="#8B1E3F"/><path d="M-30 0 Q0 12 30 0" fill="none" stroke="#FFD166" stroke-width="1.5"/>
+  <path d="M0 -6 C -8 -18 -4 -32 0 -42 C 4 -32 8 -18 0 -6 Z" fill="#FFD166" class="f" style="animation-duration:1.60s"/>
+  <path d="M0 -8 C -4 -16 -2 -24 0 -30 C 2 -24 4 -16 0 -8 Z" fill="#FFF3C4"/>
+  <circle cy="-22" r="22" fill="#FF9933" opacity=".12"/>
+</g><g transform="translate(450 78)">
+  <path d="M-30 0 Q0 30 30 0 Z" fill="#8B1E3F"/><path d="M-30 0 Q0 12 30 0" fill="none" stroke="#FFD166" stroke-width="1.5"/>
+  <path d="M0 -6 C -8 -18 -4 -32 0 -42 C 4 -32 8 -18 0 -6 Z" fill="#FFD166" class="f" style="animation-duration:1.95s"/>
+  <path d="M0 -8 C -4 -16 -2 -24 0 -30 C 2 -24 4 -16 0 -8 Z" fill="#FFF3C4"/>
+  <circle cy="-22" r="22" fill="#FF9933" opacity=".12"/>
+</g><g transform="translate(600 78)">
+  <path d="M-30 0 Q0 30 30 0 Z" fill="#8B1E3F"/><path d="M-30 0 Q0 12 30 0" fill="none" stroke="#FFD166" stroke-width="1.5"/>
+  <path d="M0 -6 C -8 -18 -4 -32 0 -42 C 4 -32 8 -18 0 -6 Z" fill="#FFD166" class="f" style="animation-duration:2.30s"/>
+  <path d="M0 -8 C -4 -16 -2 -24 0 -30 C 2 -24 4 -16 0 -8 Z" fill="#FFF3C4"/>
+  <circle cy="-22" r="22" fill="#FF9933" opacity=".12"/>
+</g><g transform="translate(750 78)">
+  <path d="M-30 0 Q0 30 30 0 Z" fill="#8B1E3F"/><path d="M-30 0 Q0 12 30 0" fill="none" stroke="#FFD166" stroke-width="1.5"/>
+  <path d="M0 -6 C -8 -18 -4 -32 0 -42 C 4 -32 8 -18 0 -6 Z" fill="#FFD166" class="f" style="animation-duration:1.60s"/>
+  <path d="M0 -8 C -4 -16 -2 -24 0 -30 C 2 -24 4 -16 0 -8 Z" fill="#FFF3C4"/>
+  <circle cy="-22" r="22" fill="#FF9933" opacity=".12"/>
+</g><g transform="translate(900 78)">
+  <path d="M-30 0 Q0 30 30 0 Z" fill="#8B1E3F"/><path d="M-30 0 Q0 12 30 0" fill="none" stroke="#FFD166" stroke-width="1.5"/>
+  <path d="M0 -6 C -8 -18 -4 -32 0 -42 C 4 -32 8 -18 0 -6 Z" fill="#FFD166" class="f" style="animation-duration:1.95s"/>
+  <path d="M0 -8 C -4 -16 -2 -24 0 -30 C 2 -24 4 -16 0 -8 Z" fill="#FFF3C4"/>
+  <circle cy="-22" r="22" fill="#FF9933" opacity=".12"/>
+</g>
+<text x="600.0" y="116" text-anchor="middle" font-family="Georgia,serif" font-style="italic" font-size="14" fill="#FF9933" opacity=".85">Lokah Samastah Sukhino Bhavantu — may all beings everywhere be happy and free</text>
+</svg>

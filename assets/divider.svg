@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 60" width="1200" height="60" role="img" aria-label="lotus divider">
+<defs>
+  <linearGradient id="l" gradientUnits="userSpaceOnUse" x1="80" y1="0" x2="554.0" y2="0"><stop offset="0" stop-color="#FFD166" stop-opacity="0"/><stop offset="1" stop-color="#FFD166"/></linearGradient>
+  <linearGradient id="r" gradientUnits="userSpaceOnUse" x1="646.0" y1="0" x2="1120" y2="0"><stop offset="0" stop-color="#FFD166"/><stop offset="1" stop-color="#FFD166" stop-opacity="0"/></linearGradient>
+</defs>
+<style>.p { transform-origin: 600.0px 44px; animation: bloom 5s ease-in-out infinite; }
+@keyframes bloom { 0%,100% { transform: scale(.9); } 50% { transform: scale(1.06); } }</style>
+<line x1="80" y1="40" x2="554.0" y2="40" stroke="url(#l)" stroke-width="1.5"/>
+<line x1="646.0" y1="40" x2="1120" y2="40" stroke="url(#r)" stroke-width="1.5"/>
+<circle cx="544.0" cy="40" r="3" fill="#FF9933"/><circle cx="656.0" cy="40" r="3" fill="#FF9933"/>
+<g class="p"><g transform="translate(600.0 46) scale(0.62)"><path d="M0 0 C -14 -16 -12 -40 0 -54 C 12 -40 14 -16 0 0 Z" fill="#8B1E3F" opacity="0.9" transform="rotate(-60)"/><path d="M0 0 C -14 -16 -12 -40 0 -54 C 12 -40 14 -16 0 0 Z" fill="#8B1E3F" opacity="0.9" transform="rotate(60)"/><path d="M0 0 C -14 -16 -12 -40 0 -54 C 12 -40 14 -16 0 0 Z" fill="#FF9933" opacity="0.95" transform="rotate(-35)"/><path d="M0 0 C -14 -16 -12 -40 0 -54 C 12 -40 14 -16 0 0 Z" fill="#FF9933" opacity="0.95" transform="rotate(35)"/><path d="M0 0 C -14 -16 -12 -40 0 -54 C 12 -40 14 -16 0 0 Z" fill="#FFD166" opacity="1" transform="rotate(0)"/></g></g>
+</svg>
