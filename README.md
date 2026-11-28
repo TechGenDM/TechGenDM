@@ -168,7 +168,7 @@ I'm **Devasish** (aka `TechGen_DM`), a Computer Science & AI student at **Scaler
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TechGenDM&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=16&bg_color=0E0B24&title_color=FF9933&icon_color=FFD166&text_color=F8EBD0&ring_color=FF9933" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=TechGenDM&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=16&bg_color=0E0B24&title_color=FF9933&icon_color=FFD166&text_color=F8EBD0&ring_color=FF9933&hide_rank=true" height="170"/>
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechGenDM&layout=compact&hide_border=true&border_radius=16&bg_color=0E0B24&title_color=FF9933&text_color=F8EBD0" height="170"/>
 
